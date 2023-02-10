@@ -39,7 +39,7 @@ form button {
     color: rgb(255, 200, 0);
     background: white;
     cursor: pointer;
-    transition: all 0.3 ease;
+    transition: all 0.1 ease;
     margin-left: 0.5rem;
 }
 
@@ -73,7 +73,7 @@ form button:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    transition: 0.5s;
+    transition: 0.4s;
     border-radius: 2rem;
 }
 
