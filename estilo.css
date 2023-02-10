@@ -5,7 +5,9 @@
 }
 
 body {
-    background-color: mediumslateblue;
+    background: url(pexels-angela-roma-7319228.jpg)no-repeat top center;
+    background-size: cover;
+    background-attachment: fixed;
     color: white;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
