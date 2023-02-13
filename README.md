@@ -10,5 +10,5 @@
         <li>CSS</li>
         <li>Java Script</li>
     </ul>
-    <h2>Se quiser acessar a visualização so site <a href="https://victoralves87.github.io/projeto-cordel/">CLIQUE AQUI</a></h2>
+    <h2>Se quiser acessar a visualização so site <a href="https://victoralves87.github.io/lista_tarefas2/">CLIQUE AQUI</a></h2>
     
